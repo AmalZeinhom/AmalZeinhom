@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmalNasr&style=flat&color=ff69b4&label=PROFILE+VIEWS)
-[![Linkedin Badge](https://img.shields.io/badge/-Amal%20Nasr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amal-nasr-/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amal%20Hassan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amal-nasr-/)
 [![Gmail Badge](https://img.shields.io/badge/-amal.nasr.1421@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amal.nasr.1421@gmail.com)
 
 </div>
