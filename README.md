@@ -16,7 +16,7 @@
 
 💫 About Me
 
-### 👋 Hi, I’m Amal Nasr  
+### 👋 Hi, I’m Amal Hassan  
 I’m a passionate **Front-End Developer** who loves building modern, user-friendly web applications.  
 I enjoy writing clean, responsive, and efficient code using the latest technologies in the web world.  
 
