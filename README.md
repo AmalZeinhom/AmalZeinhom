@@ -19,18 +19,24 @@ Frontend Developer focused on building scalable and user-friendly web applicatio
 
 ## 🚀 Featured Projects
 
-<!--START_SECTION:projects-->
+### 🧠 Task Management System
 
-* 🧠 Task Management System
-  🔗 https://task-management-tracker.vercel.app/login
+Scalable React application with authentication, API integration, and structured state management
+🔗 https://task-management-tracker.vercel.app/login
 
-* 🛒 E-Commerce Application
-  🔗 https://freshcardecommerce.vercel.app/
+---
 
-* ✍️ Blogify Platform
-  🔗 https://blogify-write-your-thoughts.vercel.app/
+### 🛒 E-Commerce Application
 
-<!--END_SECTION:projects-->
+Full shopping experience with cart, wishlist, orders, and protected routes
+🔗 https://freshcardecommerce.vercel.app/
+
+---
+
+### ✍️ Blogify Platform
+
+SEO-friendly blog system with admin dashboard and content management
+🔗 https://blogify-write-your-thoughts.vercel.app/
 
 ---
 
@@ -41,7 +47,7 @@ Frontend Developer focused on building scalable and user-friendly web applicatio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-563D7C?style=flat\&logo=tailwindcss\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
 
 ---
 
@@ -63,7 +69,6 @@ Frontend Developer focused on building scalable and user-friendly web applicatio
 
 ---
 
-
 ## 📫 Connect With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amal%20Hassan-blue?style=flat\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/amal-nasr-/)
@@ -74,6 +79,7 @@ Frontend Developer focused on building scalable and user-friendly web applicatio
 ## 🧠 Current Focus
 
 * Improving React architecture & scalability
+* Writing cleaner and more maintainable code
 * Preparing for mid-level frontend roles
 
 ---
