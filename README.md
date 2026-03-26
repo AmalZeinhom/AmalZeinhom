@@ -55,9 +55,8 @@ SEO-friendly blog system with admin dashboard and content management
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmalZeinhom&show_icons=true&theme=tokyonight" width="32%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalZeinhom&layout=compact&theme=tokyonight" width="32%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmalZeinhom&theme=tokyonight" width="32%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalZeinhom&layout=compact&theme=tokyonight" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmalZeinhom&theme=tokyonight" width="40%">
 
 </div>
 
