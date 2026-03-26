@@ -19,24 +19,18 @@ Frontend Developer focused on building scalable and user-friendly web applicatio
 
 ## 🚀 Featured Projects
 
-### 🧠 Task Management System
+<!--START_SECTION:projects-->
 
-Scalable React application with authentication, API integration, and structured state management
-🔗 https://task-management-tracker.vercel.app/login
+* 🧠 Task Management System
+  🔗 https://task-management-tracker.vercel.app/login
 
----
+* 🛒 E-Commerce Application
+  🔗 https://freshcardecommerce.vercel.app/
 
-### 🛒 E-Commerce Application
+* ✍️ Blogify Platform
+  🔗 https://blogify-write-your-thoughts.vercel.app/
 
-Full shopping experience with cart, wishlist, orders, and protected routes
-🔗 https://freshcardecommerce.vercel.app/
-
----
-
-### ✍️ Blogify Platform
-
-SEO-friendly blog system with admin dashboard and content management
-🔗 https://blogify-write-your-thoughts-kctu.vercel.app/
+<!--END_SECTION:projects-->
 
 ---
 
@@ -47,7 +41,7 @@ SEO-friendly blog system with admin dashboard and content management
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-563D7C?style=flat\&logo=tailwindcss\&logoColor=white)
 
 ---
 
@@ -69,11 +63,6 @@ SEO-friendly blog system with admin dashboard and content management
 
 ---
 
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmalZeinhom\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
@@ -85,7 +74,6 @@ SEO-friendly blog system with admin dashboard and content management
 ## 🧠 Current Focus
 
 * Improving React architecture & scalability
-* Writing cleaner and more maintainable code
 * Preparing for mid-level frontend roles
 
 ---
