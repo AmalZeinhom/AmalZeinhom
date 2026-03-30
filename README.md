@@ -22,7 +22,7 @@ Frontend Developer focused on building scalable and user-friendly web applicatio
 ### 🧠 Task Management System
 
 Scalable React application with authentication, API integration, and structured state management
-🔗 https://task-management-tracker.vercel.app/login
+🔗 https://task-management-tracker.vercel.app/
 
 ---
 
